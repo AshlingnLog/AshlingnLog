@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshlingnLog aka Ashling Struve
 - 👀 I’m interested in dogs, my kiddo, puns & dad jokes
-- 🌱 I’m currently learning MERN stack with the MIT xPro 2022 Women's Cohort
+- 🌱 I’m currently learning MERN stack with the completed the MIT xPro 2022 Women's Cohort Class
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me AshlingStruve85@gmail.com
 - 💻	 www.astruve.com
